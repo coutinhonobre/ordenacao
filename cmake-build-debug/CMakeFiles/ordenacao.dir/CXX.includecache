@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/coutinho/CLionProjects/ifg/estrutura2/principios/ordenacao/main.cpp
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+

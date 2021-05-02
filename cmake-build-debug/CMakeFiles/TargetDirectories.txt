@@ -1,0 +1,3 @@
+/Users/coutinho/CLionProjects/ifg/estrutura2/principios/ordenacao/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/coutinho/CLionProjects/ifg/estrutura2/principios/ordenacao/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/coutinho/CLionProjects/ifg/estrutura2/principios/ordenacao/cmake-build-debug/CMakeFiles/ordenacao.dir
